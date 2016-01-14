@@ -8,7 +8,7 @@ from nwb.nwbco import *
 
 """
 An example of using the MotionCorrection interface
-This example is based on two 2P cameras
+This example is based on one microscope with two channels
 
 Modules and interfaces address intermediate processing of experimental
 data. Intermediate processing is processing that's necessary to
